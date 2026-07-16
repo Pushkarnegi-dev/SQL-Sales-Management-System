@@ -159,11 +159,11 @@ Sales-Management-System-SQL
 
 ### 📊 Group by & Having
 
-![Total Stock](README%20Images/Group%20by%20%26%20Having/Groupby_1_Total_Stock.png)
+![Total Stock](README%20Images/Group%20by%20%26%20Having/GroupBy_1_Total_Stock.png)
 
-![HAVING](README%20Images/Group%20by%20%26%20Having/Groupby_2_HAVING.png)
+![HAVING](README%20Images/Group%20by%20%26%20Having/GroupBy_2_HAVING.png)
 
-![Category Summary](README%20Images/Group%20by%20%26%20Having/Groupby_3_Category_Summary.png)
+![Category Summary](README%20Images/Group%20by%20%26%20Having/GroupBy_3_Category_Summary.png)
 
 ---
 
